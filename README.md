@@ -152,5 +152,6 @@ Thiruvalluvar apartment is a goverment given apartment given to people at low co
 
 
 
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
