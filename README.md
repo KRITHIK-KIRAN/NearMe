@@ -27,7 +27,14 @@ Execute the programs and publish them.
 ## CODE
 ```
 map.html
-
+<html>
+    <head>
+        <title>ImageMap</title>
+    </head>
+    <body bgcolor="gray">
+        <center>
+            <h1>Krithik kiran.S 25011340 </h1>
+            <h2>Place:Ayapakkam</h2></center>
 <img src="map.png" usemap="#image-map">
 
 <map name="image-map">
@@ -37,6 +44,9 @@ map.html
     <area target="" alt="ganesh party hall" title="ganesh party hall" href="hall.html" coords="243,524,382,547" shape="rect">
     <area target="" alt="virutcham hospital" title="virutcham hospital" href="hospital.html" coords="645,101,652,78,799,81,796,103,721,103"  shape="poly">
 </map>
+</body>
+</html>
+
 park.html
 <html>
 <head>
@@ -46,6 +56,7 @@ park.html
 <h1 align="center">
     <font color="red"><b>My Home Town</b></font>
 </h1>
+<h2 align="center">Krihtik kiran.S 25011340</h2>
 <h3 align="center">
 <font color="blue"><b>ayappakam park</b></font>
 </h3>
@@ -68,6 +79,7 @@ ice.html
 <h1 align="center">
     <font color="red"><b>My Home Town</b></font>
 </h1>
+<h2 align="center">Krihtik kiran.S 25011340</h2>
 <h3 align="center">
 <font color="blue"><b>ice berg</b></font>
 </h3>
@@ -89,6 +101,7 @@ hospital.html
 <h1 align="center">
     <font color="red"><b>My Home Town</b></font>
 </h1>
+<h2 align="center">Krihtik kiran.S 25011340</h2>
 <h3 align="center">
 <font color="blue"><b>virutcham hospital</b></font>
 </h3>
@@ -110,6 +123,7 @@ hall.html
 <h1 align="center">
     <font color="red"><b>My Home Town</b></font>
 </h1>
+<h2 align="center">Krihtik kiran.S 25011340</h2>
 <h3 align="center">
 <font color="blue"><b>ganesh party hall</b></font>
 </h3>
@@ -131,6 +145,7 @@ apartment.html
 <h1 align="center">
     <font color="red"><b>My Home Town</b></font>
 </h1>
+<h2 align="center">Krihtik kiran.S 25011340</h2>
 <h3 align="center">
 <font color="blue"><b>thiruvalluvar apartment</b></font>
 </h3>
@@ -145,12 +160,13 @@ Thiruvalluvar apartment is a goverment given apartment given to people at low co
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (15).png>)
-![alt text](<Screenshot (11).png>)
-![alt text](<Screenshot (12).png>)
-![alt text](<Screenshot (13).png>)
-![alt text](<Screenshot (14).png>)
-![alt text](<Screenshot (16).png>)
+![alt text](<Screenshot (29).png>)
+![alt text](<Screenshot (32).png>)
+![alt text](<Screenshot (28).png>)
+![alt text](<Screenshot (31).png>)
+![alt text](<Screenshot (33).png>)
+![alt text](<Screenshot (30).png>)
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
